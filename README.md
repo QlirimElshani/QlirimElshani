@@ -13,7 +13,7 @@
   
  <h2>👨‍💻  Back-End Development Projects:</h2>
   
-   - <b>HTML, CSS, Bootstrap, Php, Mysql</b>
+   - <b>HTML, CSS, Bootstrap, Javascript, Php, Mysql</b>
      - [School - dynamic](https://github.com/QlirimElshani/School)
       - [Rent a Car - dynamic](https://github.com/QlirimElshani/RentaCar)
    </br>
