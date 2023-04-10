@@ -6,7 +6,8 @@
 <h2>👨‍💻 Front-End Development Projects:</h2>
 
   - <b>REACT (React framework, JavaScript, Material Ui)</b>
-   - [Ecommerc - dynamic](https://github.com/QlirimElshani/Ecommerc)
+    - [School](https://github.com/QlirimElshani/School)
+   
 - <b>HTML, CSS, Javascript</b>
   - [Structura - Landing Page](https://github.com/QlirimElshani/structura)
   - [RentaCar - Landing Page](https://github.com/QlirimElshani/RentaCar)
@@ -14,5 +15,7 @@
 - <b>HTML, CSS, Php, Mysql</b><b>
   - [School](https://github.com/QlirimElshani/School)
   </br>
+
+  
 
 
