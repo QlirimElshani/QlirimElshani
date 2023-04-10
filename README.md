@@ -14,8 +14,8 @@
   
  <h2>👨‍💻  Back-End Development Projects:</h2>
     - <b>HTML, CSS, Bootstrap, Php, Mysql</b>
-      - [School - dynamic](https://github.com/QlirimElshani/School)
-      - [Ecommerc - dynamic](https://github.com/QlirimElshani/Ecommerc)
+    - [School - dynamic](https://github.com/QlirimElshani/School)
+    - [Ecommerc - dynamic](https://github.com/QlirimElshani/Ecommerc)
     </br>
 <h2>🎓 Certifications:</h2>
 
