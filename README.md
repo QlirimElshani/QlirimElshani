@@ -13,10 +13,11 @@
    - [Multipurpose - Landing Page (Class Project)](https://github.com/QlirimElshani/Multipurpose---Landing-Page) 
   
  <h2>👨‍💻  Back-End Development Projects:</h2>
-    - <b>HTML, CSS, Bootstrap, Php, Mysql</b>
-    - [School - dynamic](https://github.com/QlirimElshani/School)
   
-    
+   - <b>HTML, CSS, Bootstrap, Php, Mysql</b>
+     - [School - dynamic](https://github.com/QlirimElshani/School)
+  
+    </br>
 <h2>🎓 Certifications:</h2>
 
  - [Frontend Academy @ Creative Hub Kosovo]()
