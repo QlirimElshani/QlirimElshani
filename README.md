@@ -11,11 +11,11 @@
    - [Structura - Landing Page](https://github.com/QlirimElshani/structura)
    - [RentaCar - Landing Page](https://github.com/QlirimElshani/RentaCar)
    - [Multipurpose - Landing Page (Class Project)](https://github.com/QlirimElshani/Multipurpose---Landing-Page) 
-  </br>
   
  <h2>👨‍💻  Back-End Development Projects:</h2>
     - <b>HTML, CSS, Bootstrap, Php, Mysql</b>
-     - [School - dynamic](https://github.com/QlirimElshani/School)
+      - [School - dynamic](https://github.com/QlirimElshani/School)
+      - [Ecommerc - dynamic](https://github.com/QlirimElshani/Ecommerc)
     </br>
 <h2>🎓 Certifications:</h2>
 
