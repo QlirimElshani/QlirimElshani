@@ -8,23 +8,18 @@
   - <b>REACT (React framework, JavaScript, Material Ui)</b>
     - [Ecommerc - dynamic](https://github.com/QlirimElshani/Ecommerc)
  - <b>HTML, CSS, Javascript</b>
-  - [Structura - Landing Page](https://github.com/QlirimElshani/structura)
-  - [RentaCar - Landing Page](https://github.com/QlirimElshani/RentaCar)
-  - [Multipurpose - Landing Page (Class Project)](https://github.com/QlirimElshani/Multipurpose---Landing-Page) 
-  </br>
+   - [Structura - Landing Page](https://github.com/QlirimElshani/structura)
+   - [RentaCar - Landing Page](https://github.com/QlirimElshani/RentaCar)
+   - [Multipurpose - Landing Page (Class Project)](https://github.com/QlirimElshani/Multipurpose---Landing-Page) 
   </br>
  <h2>👨‍💻  Back-End Development Projects:</h2>
- 
-  - <b>HTML, CSS, Bootstrap, Php, Mysql</b>
+    - <b>HTML, CSS, Bootstrap, Php, Mysql</b>
     - [School - dynamic](https://github.com/QlirimElshani/School)
     </br>
-
-
 <h2>🎓 Certifications:</h2>
 
 - [Frontend Academy @ Creative Hub Kosovo]()
 - [FullStack - Web developer @ Probit Academy]()
-
 <br/>  
 
 
