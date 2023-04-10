@@ -35,4 +35,9 @@
 <br/>
 <br/>
 <br/>
+<h2> 🤳 Connect with me:</h2>
+<p align="left"> <a href="https://www.linkedin.com/in/%C3%A7lirim-elshani-570078227/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/linkedin/linkedin-original.svg" alt="linkedin" width="24px"/>  in:ÇlirimElshani</a><br> <br><br> <br><a href="https://twitter.com/LabinotVeseli" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/twitter/twitter-original.svg" alt="twitter" width="24px"/>  @LabinotVeseli</a><br> <br><a href="mailto:labinotveseli1@gmail.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="gmail" width="24px"/>  labinotveseli1@gmail.com</a> </p>
+
+<br/>
+<hr>
 
