@@ -15,7 +15,7 @@
   
    - <b>HTML, CSS, Bootstrap, Php, Mysql</b>
      - [School - dynamic](https://github.com/QlirimElshani/School)
-      - [RentaCar - Landing Page](https://github.com/QlirimElshani/RentaCar)
+      - [Rent a Car - Landing Page](https://github.com/QlirimElshani/RentaCar)
    </br>
 <h2>🎓 Certifications:</h2>
 
