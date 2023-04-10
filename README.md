@@ -41,5 +41,8 @@
 
 <br/>
 <hr>
-###Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QlirimElshani&show_icons=true&bg_color=00000000)
+### 📊 Stats
+
+![Qlirim's GitHub stats](https://github-readme-stats.vercel.app/api?username=QlirimElshani&show_icons=true&theme=gruvbox)
+
+
