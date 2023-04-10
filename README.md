@@ -4,3 +4,11 @@
 <br/>
 <br/>
 <h2>👨‍💻 Front-End Development Projects:</h2>
+
+  - <b>REACT (React framework, JavaScript, Material Ui)</b><b>
+  - [Ecommerc](https://github.com/QlirimElshani/Ecommerc)
+- <b>HTML, CSS, Javascript</b>
+  - [Structura - Landing Page](https://github.com/QlirimElshani/structura)
+  - [RentaCar - Landing Page](https://github.com/QlirimElshani/RentaCar)
+  - [Multipurpose - Landing Page (Class Project)](https://github.com/QlirimElshani/Multipurpose---Landing-Page)
+<br/>
