@@ -5,7 +5,7 @@
 <br/>
 <h2>👨‍💻 Front-End Development Projects:</h2>
 
-  - <b>REACT (React framework, JavaScript, Material Ui)</b><b>
+  - <b>REACT (React framework, JavaScript, Material Ui)</b>
    - [Ecommerc - dynamic](https://github.com/QlirimElshani/Ecommerc)
 - <b>HTML, CSS, Javascript</b>
   - [Structura - Landing Page](https://github.com/QlirimElshani/structura)
