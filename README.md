@@ -19,7 +19,7 @@
 <h2>🎓 Certifications:</h2>
 
 - [Frontend Academy @ Creative Hub Kosovo]()
-- [FullStack - Web developer Probit Academy]()
+- [FullStack - Web developer @ Probit Academy]()
 
 <br/>  
 
