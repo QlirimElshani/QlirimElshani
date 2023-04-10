@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 <!--
-**QlirimElshani/QlirimElshani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Passionate and results-driven frontend developer with a focus on creating high-performance websites that provide a seamless user experience. Skilled in HTML, CSS, JavaScript, React and Typescript. Adept at collaborating with teams to create effective solutions that meet project goals.
+
 
 Here are some ideas to get you started:
 
