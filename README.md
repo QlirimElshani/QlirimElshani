@@ -11,7 +11,7 @@
   - [Structura - Landing Page](https://github.com/QlirimElshani/structura)
   - [RentaCar - Landing Page](https://github.com/QlirimElshani/RentaCar)
   - [Multipurpose - Landing Page (Class Project)](https://github.com/QlirimElshani/Multipurpose---Landing-Page)
-<br/>
-- <b>HTML, CSS, Php, Bootstrap, Mysql</b>
+  - <b>HTML, CSS, Php, Bootstrap, Mysql</b>
   - [School ](https://github.com/QlirimElshani/School)
 <br/>
+
