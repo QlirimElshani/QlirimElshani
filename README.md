@@ -15,8 +15,8 @@
   </br>
   </br>
  <h2>👨‍💻  Back-End Development Projects:</h2>
-- <b>HTML, CSS, Bootstrap, Php, Mysql</b><b>
-  - [School](https://github.com/QlirimElshani/School)
+  - <b>HTML, CSS, Bootstrap, Php, Mysql</b><b>
+    - [School](https://github.com/QlirimElshani/School)
   </br>
 
 <h2>🎓 Certifications:</h2>
