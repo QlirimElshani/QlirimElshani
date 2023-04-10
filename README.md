@@ -16,8 +16,7 @@
   
    - <b>HTML, CSS, Bootstrap, Php, Mysql</b>
      - [School - dynamic](https://github.com/QlirimElshani/School)
-  
-    </br>
+   </br>
 <h2>🎓 Certifications:</h2>
 
  - [Frontend Academy @ Creative Hub Kosovo]()
