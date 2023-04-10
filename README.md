@@ -11,8 +11,8 @@
   - [Structura - Landing Page](https://github.com/QlirimElshani/structura)
   - [RentaCar - Landing Page](https://github.com/QlirimElshani/RentaCar)
   - [Multipurpose - Landing Page (Class Project)](https://github.com/QlirimElshani/Multipurpose---Landing-Page) 
-- <b>REACT (React framework, JavaScript, Material Ui)</b><b>
-  - [Ecommerc](https://github.com/QlirimElshani/Ecommerc)
-
+- <b>HTML, CSS, Php, Mysql</b><b>
+  - [School](https://github.com/QlirimElshani/School)
+  </br>
 
 
