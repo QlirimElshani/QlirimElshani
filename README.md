@@ -34,6 +34,7 @@
 <img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/figma/figma-original.svg" />
 <img align="left" alt="Php" width="30px" style="padding-right:10px;" src="https://img.icons8.com/officel/40/null/php-logo.png" />
 <img align="left" alt="Php" width="30px" style="padding-right:10px;"  src="https://img.icons8.com/color/48/null/mysql-logo.png" />
+<img align="left" alt="Php" width="30px" style="padding-right:10px;"  src="https://img.icons8.com/ios-filled/50/null/wordpress--v1.png" />
 
 <br/>
 <br/>
